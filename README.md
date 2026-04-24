@@ -22,8 +22,8 @@ This tool utilizes a custom API bridge that modifies the upload handshake, allow
 
 The application is currently available via direct request. If you are interested in upgrading your store's capabilities, please reach out through the following channels:
 
-- **Email:** [Insert Your Email Here]
-- **Instagram:** [**Contact Me on Instagram**](https://www.instagram.com/your_username_here)
+- **Email:** [shernath987@gmail.com]
+- **Instagram:** [**Contact Me on Instagram**](https://www.instagram.com/sr._.0019)
 
 ---
 
